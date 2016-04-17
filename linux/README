@@ -1,0 +1,11 @@
+# About this Package
+Name: Syng beta
+Version: v0.1.0
+Platform: linux
+Arch: x64
+More Information: https://github.com/sotch-pr35mac/syng
+
+# Installation Instructions
+To isntall Syng beta v0.1.0 run the `install.sh` script.
+1. `chmod +x install.sh`
+2. `sudo ./install.sh`
