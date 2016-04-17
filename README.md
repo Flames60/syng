@@ -1,6 +1,6 @@
-# Syng | 词应
-__Dictionary App | 词典应用__
-__v0.1.0 (beta)__
+# __Syng | 词应__
+##### Dictionary App | 词典应用
+##### v0.1.0 (beta)
 ---
 
 ### Release Branch
