@@ -12,5 +12,7 @@ To install Syng beta v0.1.0 run the `install.sh` script.
 
 # Upgrade Instructions
 To upgrade Syng from a previous version run the `update.sh` script.
+
+__Important: Using `update.sh` will delete all of your Bookmarks.__ If you have bookmarks you'd like to keep, please use `install.sh`.
 1. `chmod +x update.sh`
 2. `sudo ./update.sh`
