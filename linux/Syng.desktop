@@ -5,6 +5,6 @@ Name=Syng
 Comment=A free, open source, cross platform Chinese-to-English dictionary application
 Path=/opt/syng
 Exec=/opt/syng/Syng
-Icon=/opt/syng/syng.png
+Icon=/opt/syng/icon.png
 Categories=Utility;Office;
 
